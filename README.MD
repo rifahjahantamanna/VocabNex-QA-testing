@@ -22,7 +22,7 @@ To evaluate the core functionality of Vocabnex through structured manual testing
 
 📄 [`Vocabnex_QA_Test_Plan.xlsx`](./Vocabnex_QA_Test_Plan.xlsx) — contains:
 - **Test Plan** — scope, approach, environment, tools
-- **Test Cases** — 25 test cases across Auth, Add Word, Quiz, and Navigation modules
+- **Test Cases** — 24 test cases across Auth, Add Word, Quiz, and Navigation modules
 - **Bug Log** — 9 defects logged with steps to reproduce, severity, and priority
 - **Summary Report** — auto-calculated test execution metrics and key findings
 
